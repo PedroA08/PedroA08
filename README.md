@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedroa08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroa08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
 </div>
 
 ###
@@ -38,7 +38,7 @@
 
 ###
 
-<h4 align="left">Hey there! I’m Pedro, a 16-year-old aspiring systems developer from Brazil. When I'm not immersed in coding, you’ll find me gaming or binge-watching some anime. I’m passionate about languages and dream of moving to Canada one day to master Spanish, English, and French. Join me on this exciting journey as I blend tech with global adventures!</h4>
+<h3 align="left">Hey there! I’m Pedro, a 16-year-old aspiring systems developer from Brazil. When I'm not immersed in coding, you’ll find me gaming or binge-watching some anime. I’m passionate about languages and dream of moving to Canada one day to master Spanish, English, and French. Join me on this exciting journey as I blend tech with global adventures!</h3>
 
 ###
 
