@@ -12,14 +12,14 @@
 
 ##
 
- ### My Courses and Academic Works:
+ ### My Courses and Academic Works: 🌐
 
 #### Certificação em Python
 - **Instituição:** Cisco
 - **Data de Conclusão:** Maio 2024
 
 <a href="https://www.credly.com/badges/0a4e23f4-a5e9-4d0d-9af8-87d6939b825a" class="github-button" target="_blank">
-Ver certificado
+Ver certificado ✔
 </a>
 
 ##
