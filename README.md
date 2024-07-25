@@ -31,7 +31,10 @@
 
 <br clear="both">
 
-<img align="right" height="177" src="https://tenor.com/pt-BR/view/luffy-one-piece-gif-9361682241615296655"  />
+<div align="right">
+<img src="https://github.com/user-attachments/assets/648db8d9-3c96-422f-9c62-b7059b77c9de" width="177px" />
+</div>
+
 
 ###
 
