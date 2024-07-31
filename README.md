@@ -56,11 +56,17 @@ Ver certificado ✔
 ##
 
 <div align="center">
+ 
   <H4>My social media:</H4>
 
   <a href="https://www.youtube.com/@eupredu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-  </a>
+   </a>
+   
+   <a href="https://www.instagram.com/@pedro.rth" target="_blank">
+ <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=fd286f&logoColor=white&labelColor=&style=for-the-badge" height="40"
+alt="instagram logo"  />
+    
 </div>
 
 ##
