@@ -61,14 +61,9 @@ Ver certificado ✔
   <a href="https://www.youtube.com/@eupredu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
-  
-  <a href="https://instagram.com/@pedro.rth" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=F08080&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-
-
-###
 </div>
+
+##
 
 <br clear="both">
 
