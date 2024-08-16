@@ -63,7 +63,7 @@ Ver certificado ✔
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
    </a>
    
-   <a href="https://www.instagram.com.br/@pedro.rth" target="_blank">
+   <a href="https://www.instagram.com/@pedro.rth?igsh=MWZmNHpsZmFrZWx5bA%3D%3D&utm_source=qr" target="_blank">
  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=fd286f&logoColor=white&labelColor=&style=for-the-badge" height="40"
 alt="instagram logo"  />
     
