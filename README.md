@@ -8,11 +8,11 @@
 <img src="https://github.com/user-attachments/assets/21d24d61-282e-41c8-97f4-c18053e64136" width="150px" />
 </div>
 
-<h3 align="center">Hey there! I’m Pedro, a 16-year-old aspiring systems developer from Brazil. When I'm not immersed in coding, you’ll find me gaming or binge-watching some anime. I’m passionate about languages and dream of moving to Canada one day to master Spanish, English, and French. Join me on this exciting journey as I blend tech with global adventures!</h3>
+<h3 align="center"> Eu sou o Pedro, um aspirante a desenvolvedor de sistemas de 16 anos do Brasil. Quando não estou mergulhado em codificação, você me encontrará jogando ou assistindo a animes em maratonas. Sou apaixonado por idiomas e sonho em me mudar para o Canadá um dia para dominar o espanhol, o inglês e o francês. Junte-se a mim nesta jornada empolgante enquanto misturo tecnologia com aventuras globais!</h3>
 
 ##
 
- ### My Courses and Academic Works: 🌐
+ ### Meus Cursos e Trabalhos Acadêmicos: 🌐
 
 #### Certificação em Python
 - **Instituição:** Cisco
