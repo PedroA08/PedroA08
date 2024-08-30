@@ -39,7 +39,7 @@ Vídeo produzido em grupo para analisar as suas importâncias.
 ##
 
 <div align="center">
-  <H4>My Github stats:</H4>
+  <H4>Meu Github stats:</H4>
   <img src="https://github-readme-stats.vercel.app/api?username=pedroa08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=neon&locale=en&hide_border=false&order=1" height="110" alt="stats graph"  />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroa08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=neon&hide_border=false&order=2" height="110" alt="languages graph"  />
@@ -51,7 +51,7 @@ Vídeo produzido em grupo para analisar as suas importâncias.
 <br clear="both">
 
 <div align="center">
-  <H4>My stack:</H4>
+  <H4>Meu stack:</H4>
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
@@ -71,7 +71,7 @@ Vídeo produzido em grupo para analisar as suas importâncias.
 
 <div align="center">
  
-  <H4>My social media:</H4>
+  <H4>Minhas redes sociais:</H4>
 
   <a href="https://www.youtube.com/@eupredu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
