@@ -8,7 +8,7 @@
 <img src="https://github.com/user-attachments/assets/21d24d61-282e-41c8-97f4-c18053e64136" width="150px" />
 </div>
 
-<h3 align="center"> Eu sou o Pedro, um aspirante a desenvolvedor de sistemas de 16 anos do Brasil. Quando não estou mergulhado em codificação, você me encontrará jogando ou assistindo a animes em maratonas. Sou apaixonado por idiomas e sonho em me mudar para o Canadá um dia para dominar o espanhol, o inglês e o francês. Junte-se a mim nesta jornada empolgante enquanto misturo tecnologia com aventuras globais!</h3>
+<h3 align="center"> Eu sou o Pedro, um aspirante a desenvolvedor de sistemas de 16 anos do Brasil. Quando não estou mergulhado em codificação, você me encontrará jogando ou assistindo algum anime. Sou apaixonado por idiomas e sonho em me mudar para o Canadá um dia para dominar espanhol, inglês e francês. Junte-se a mim nesta jornada empolgante enquanto misturo tecnologia com aventuras globais!</h3>
 
 ##
 
