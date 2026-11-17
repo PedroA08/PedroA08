@@ -11,12 +11,12 @@
 <img src="https://github.com/user-attachments/assets/ea65c293-0213-4811-a59f-0e7fadfa28a5" width="300" align="right"/>
 
 <p align="left">
-  Olá, <em><b>Meu nome é Pedro Arthur </b></em>, Tenho 18 anos e sou muito curioso, sempre busco evoluir minhas habilidades por meio de projetos práticos e aprendizado contínuo. Gosto de entender como as coisas funcionam, principalmente quando se trata de hardware. Meu hobby preferido é mergulhar na imersão dos jogos, curto ouvir música indie e assistir a animes.
+  Olá, <em><b>Meu nome é Pedro Arthur </b></em>, Tenho 18 anos e sou um entusiasta em <em><b>ANÁLISE E DESENVOLV. DE SISTEMAS</b></em>, sempre busco evoluir minhas habilidades por meio de projetos práticos e aprendizado contínuo. Gosto de entender como as coisas funcionam, principalmente quando se trata de hardware. Meu hobby preferido é mergulhar na imersão dos jogos, curto ouvir música indie e assistir a animes.
 
   -  Téc. em ADS pelo SENAI
   -  Conhecimento em Hardware e montagem de computadores
   -  Focado em projetos pessoais e aprendizado
-  -  Entusiasta de tecnologia e games
+  -  Fascinado por tecnologia e games
   -  Sempre buscando aprimorar boas práticas e organização
   </p>
 
