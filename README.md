@@ -19,12 +19,13 @@
 
 ***
 
-  -  Téc. em ADS pelo SENAI
-  -  Conhecimento em Hardware e montagem de computadores
-  -  Focado em projetos pessoais e aprendizado
-  -  Fascinado por tecnologia e games
-  -  Sempre buscando aprimorar boas práticas e organização
-  </p>
+  -  Technical Certificate in Systems Development from SENAI
+  -  Knowledge of hardware and computer assembly
+  -  Focused on personal projects and learning
+  -  Fascinated by technology and video games
+  -  Always striving to improve best practices and organization
+    
+</p>
 
 
 
