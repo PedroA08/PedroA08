@@ -15,7 +15,7 @@
 
 <p align="left">
   
-  Olá, <em><b>Meu nome é Pedro Arthur </b></em>, Tenho 18 anos e sou um entusiasta em <em><b>ANÁLISE E DESENVOLV. DE SISTEMAS</b></em>, sempre busco evoluir minhas habilidades por meio de projetos práticos e aprendizado contínuo. Gosto de entender como as coisas funcionam, principalmente quando se trata de hardware. Meu hobby preferido é mergulhar na imersão dos jogos, curto ouvir música indie e assistir a animes.
+  Hi, my name is Pedro Ribeiro. I’m 18 years old and have an endless curiosity; I’m always looking to improve my skills through hands-on projects and continuous learning. I like to understand how things work, especially when it comes to hardware. My favorite hobby is getting lost in the world of video games; I enjoy listening to indie music and watching anime.
 
 ***
 
