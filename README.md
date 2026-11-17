@@ -15,7 +15,17 @@
 
 <p align="left">
   
-  Hi, my name is Pedro Ribeiro. I’m 18 years old and have an endless curiosity; I’m always looking to improve my skills through hands-on projects and continuous learning. I like to understand how things work, especially when it comes to hardware. My favorite hobby is getting lost in the world of video games; I enjoy listening to indie music and watching anime.
+Hi! My name is **Pedro Ribeiro**, I'm 18 years old, and I'm driven by an endless curiosity about technology. I'm always looking for opportunities to expand my knowledge through hands-on projects, experimentation, and continuous learning. I enjoy understanding how things work, especially when it comes to computer hardware. Outside of technology, I'm passionate about video games, indie music, and anime.
+
+I'm a **Tech Enthusiast** and **Aspiring Software Developer**, currently pursuing a degree in **Systems Analysis and Development at UNOESTE/FIPP**, starting in the first semester of 2027. I'm based in Brazil.
+
+I have hands-on experience in **PC building, hardware maintenance, cleaning, and performance optimization**, with a particular interest in gaming hardware and computer technology.
+
+My primary area of interest in programming is **Frontend Development**, where I work with **JavaScript, CSS, and Bootstrap**. I also have experience with **Python, C, and Lua**. Currently, I'm expanding my backend development skills through a project involving **Node.js, RESTful APIs, and PostgreSQL hosted in the cloud**.
+
+I'm passionate about technology, problem-solving, and exploring the connection between hardware and software. Looking ahead, I aim to specialize in **Software Engineering and Cybersecurity**, with the ultimate goal of becoming an **Ethical Hacker**.
+
+I'm always learning, building, experimenting, and pushing myself to explore new possibilities in technology.
 
 ***
 
