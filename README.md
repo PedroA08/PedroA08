@@ -10,7 +10,7 @@
 
 ***
 
-<p align="left">
+<p style="font-size: 14px;" align="left" >
   
 Hi! I'm **Pedro Ribeiro**, an 18-year-old tech enthusiast from Brazil, passionate about technology, gaming, anime, and hardware. I'm an aspiring software developer and incoming **Systems Analysis and Development student at UNOESTE/FIPP (2027)**, with hands-on experience in PC building and maintenance. My focus is **Frontend Development** using JavaScript, CSS, and Bootstrap, alongside Python, C, Lua, and ongoing projects with Node.js, RESTful APIs, and PostgreSQL. Driven by curiosity and problem-solving, I aim to specialize in **Software Engineering and Cybersecurity**, eventually becoming an Ethical Hacker.
 
