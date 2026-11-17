@@ -15,25 +15,15 @@
 
 <p align="left">
   
-Hi! My name is **Pedro Ribeiro**, I'm 18 years old, and I'm driven by an endless curiosity about technology. I'm always looking for opportunities to expand my knowledge through hands-on projects, experimentation, and continuous learning. I enjoy understanding how things work, especially when it comes to computer hardware. Outside of technology, I'm passionate about video games, indie music, and anime.
+Hi! I'm **Pedro Ribeiro**, an 18-year-old tech enthusiast from Brazil with an endless curiosity about technology. I'm passionate about video games, indie music, anime, and understanding how things work, especially computer hardware.
 
-I'm a **Tech Enthusiast** and **Aspiring Software Developer**, currently pursuing a degree in **Systems Analysis and Development at UNOESTE/FIPP**, starting in the first semester of 2027. I'm based in Brazil.
+I'm an **Aspiring Software Developer** and incoming **Systems Analysis and Development student at UNOESTE/FIPP (2027)**. I have hands-on experience in PC building, hardware maintenance, and optimization. My main focus is **Frontend Development** with JavaScript, CSS, and Bootstrap, alongside experience with Python, C, and Lua. I'm also developing a project using **Node.js, RESTful APIs, and cloud-hosted PostgreSQL**.
 
-I have hands-on experience in **PC building, hardware maintenance, cleaning, and performance optimization**, with a particular interest in gaming hardware and computer technology.
-
-My primary area of interest in programming is **Frontend Development**, where I work with **JavaScript, CSS, and Bootstrap**. I also have experience with **Python, C, and Lua**. Currently, I'm expanding my backend development skills through a project involving **Node.js, RESTful APIs, and PostgreSQL hosted in the cloud**.
-
-I'm passionate about technology, problem-solving, and exploring the connection between hardware and software. Looking ahead, I aim to specialize in **Software Engineering and Cybersecurity**, with the ultimate goal of becoming an **Ethical Hacker**.
-
-I'm always learning, building, experimenting, and pushing myself to explore new possibilities in technology.
+I'm passionate about problem-solving and exploring the relationship between hardware and software. My long-term goals are to specialize in **Software Engineering and Cybersecurity**, eventually becoming an **Ethical Hacker**. Always learning, building, and exploring new possibilities!
 
 ***
 
   -  Technical Certificate in Systems Development from SENAI
-  -  Knowledge of hardware and computer assembly
-  -  Focused on personal projects and learning
-  -  Fascinated by technology and video games
-  -  Always striving to improve best practices and organization
     
 </p>
 
