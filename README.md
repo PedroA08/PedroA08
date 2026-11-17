@@ -1,8 +1,11 @@
 <img src="https://github.com/user-attachments/assets/4f46f206-d1e2-4763-a5d2-b4a8fa0fbc66">
 
 <div align="center">
+
+***
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=27&letterSpacing=&duration=4933&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello%2C+Hello!+;I'm+Pedro+be+very+welcome!+☆)](https://git.io/typing-svg)
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=200&size=30&duration=3500&pause=650&color=FFFFFF&center=true&vCenter=true&multiline=true&width=460&height=100&lines=Hello%2C+hello!;+I'm+Pedro+be+very+welcome!+☆)](https://git.io/typing-svg)
 
 </div>
 
